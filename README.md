@@ -29,15 +29,17 @@ A Decision Tree algorithm was implemented using Python to classify failure condi
 - Supported optimized maintenance scheduling and reduced potential downtime
 
 ## Screenshots
-(Add here)
 - Model accuracy results
-  <img width="317" height="126" alt="pds-accuracy-dt" src="https://github.com/user-attachments/assets/4bb060e9-f892-405c-823e-aadc66e453d4" />
+
+  <img width="400" height="200" alt="pds-accuracy-dt" src="https://github.com/user-attachments/assets/4bb060e9-f892-405c-823e-aadc66e453d4" />
 
 - Confusion matrix visualization
-  <img width="585" height="486" alt="pds-confusionmatrix" src="https://github.com/user-attachments/assets/466248f9-7904-46a8-8da0-a4684b760b31" />
+
+   <img width="400" height="300" alt="pds-confusionmatrix" src="https://github.com/user-attachments/assets/466248f9-7904-46a8-8da0-a4684b760b31" />
 
 - Feature importance graph
- <img width="676" height="467" alt="pds-learningcurve" src="https://github.com/user-attachments/assets/9ffe1f77-f3b2-400c-993b-0a80433f6a85" />
+
+  <img width="400" height="300" alt="pds-learningcurve" src="https://github.com/user-attachments/assets/9ffe1f77-f3b2-400c-993b-0a80433f6a85" />
 
 
 ## How to Run
